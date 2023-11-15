@@ -10,11 +10,12 @@ credits: true
 
 {% include feature/jumbotron.html objectid="col011_00100" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About The Pine Street School & Meridian Elementary Collection" %}
 
-## About CollectionBuilder CSV
+## About The Pine Street School & Meridian Elementary Collection 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection contains photos and documents pertaining to the history and historical renovation of the Pine Street School as well as some material on Meridian Elementary School. All materials originated from historical scrapbooks owned by The Friends of Pine Street School. The Meridian Library District thanks The Friends of Pine Street School for allowing access to these material for digital preservation. Items found on this website are for educational and research use only. Copyright restrictions may apply. User is responsible for all copyright compliance. Please contact the History Center at history@mld.org or 208-888-4451, ext. 1023 for further information. The Meridian Library District is not liable for any violations of the law by users. 
+
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
