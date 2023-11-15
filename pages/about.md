@@ -1,5 +1,5 @@
 ---
-title:Pine Street School & Meridian Elementary 
+title:about 
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
