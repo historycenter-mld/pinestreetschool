@@ -51,7 +51,7 @@ metadata: pinestreet
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: Meridian Library District
-organization-link: https://www.mld.org/resources/history
+organization-link: https://www.mld.org
 organization-logo-banner: /assets/img/mld-color.png
 organization-logo-nav: /assets/img/mld-logo.png
 
